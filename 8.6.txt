@@ -1,0 +1,18 @@
+git   
+maven
+jenkins
+Ansible
+Terraform
+Cloud platform
+Dockers
+kuberneters
+Linux
+ShellScripting
+
+
+
+amma 
+anna
+lishika
+ammu
+
