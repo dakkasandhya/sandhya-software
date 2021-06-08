@@ -1,0 +1,10 @@
+ Alphabets
+apple
+ball
+cat
+dog 
+elephant
+fish
+grep
+horse
+
