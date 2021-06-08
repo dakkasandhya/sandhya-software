@@ -1,0 +1,11 @@
+git
+maven
+jenkins
+Ansible
+terraform
+coludplatform
+Docker
+Kubernetters
+Linux
+Shellscripting
+
